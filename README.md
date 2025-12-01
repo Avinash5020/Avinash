@@ -28,13 +28,19 @@ Databases: MongoDB, MySQL
 Languages: C, C++, Python, JavaScript  
 Tools: Git, GitHub, VS Code, Docker, Figma, Canva  
 Platforms: WordPress, Wix  
-##  Featured Projects (Coming Soon)
-- **Portfolio Website**
-- **SocialMoon Agency Website**
-- **Full-Stack CRUD App**
-- **UI Component Library**
-- **React Dashboard**
-- **Branding Case Studies**
+##  Featured Projects 
+SocialMoon Agency Website  
+Personal Portfolio Website  
+College Final Year Project  
+E-Commerce Website  
+Shopify Store  
+Full-Stack CRUD Application  
+React Admin Dashboard  
+Branding & Design Case Studies  
+JavaScript Mini Projects  
+Business Tools (Invoice/Calculator/Leads)  
+Landing Page Collection
+
 ## Connect with Me
 
 <p>
