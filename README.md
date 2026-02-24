@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Avinash Gautam</h1>
 <p align="center">
-  Entrepreneur • Co-Founder @ <a href="https://socialmoon.in">SocialMoon</a> <br>
-  Full-Stack Developer • Creative Director • Brand & Business Consultant
+  Co-Founder & COO @ <a href="https://socialmoon.in">SocialMoon</a> <br>
+  Full-Stack Developer  • Brand & Business Consultant
 </p>
 ##  About Me
 I turn ideas into **brands, websites, and digital systems**.
